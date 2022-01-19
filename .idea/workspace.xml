@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eff84139-c837-4c85-8c47-944a5f9e8602" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../windows/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\Java\windows\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21auFd9bXZAlECQIuSTSARNcLaO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/jdbcDemo01/src/com/lq" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java\project\JDBC" />
+      <recent name="E:\java\project\JDBC\jdbcDemo01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\project\JDBC\jdbcDemo02\src\com\lq\view" />
+      <recent name="E:\java\project\JDBC\jdbcDemo02\src\com\lq\dao" />
+      <recent name="E:\java\project\JDBC\jdbcDemo02\src" />
+      <recent name="E:\java\project\JDBC\jdbcDemo02\lib" />
+      <recent name="E:\java\project\JDBC\jdbcDemo01\src\com\lq\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestLog4j">
+    <configuration name="EmpManageSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lq.view.EmpManageSystem" />
+      <module name="jdbcDemo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lq.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lq.test.TestBatch" />
+      <module name="jdbcDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lq.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLog4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lq.test.TestLog4j" />
+      <module name="jdbcDemo02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lq.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lq.transaction.TestTransaction" />
+      <module name="jdbcDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lq.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransactionRollbackPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lq.transaction.TestTransactionRollbackPoint" />
+      <module name="jdbcDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lq.transaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestLog4j" />
+        <item itemvalue="Application.TestBatch" />
+        <item itemvalue="Application.TestTransactionRollbackPoint" />
+        <item itemvalue="Application.TestTransaction" />
+        <item itemvalue="Application.EmpManageSystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eff84139-c837-4c85-8c47-944a5f9e8602" name="Default Changelist" comment="" />
+      <created>1638191416822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638191416822</updated>
+      <workItem from="1638191419361" duration="267000" />
+      <workItem from="1638191698459" duration="4821000" />
+      <workItem from="1638196578107" duration="470000" />
+      <workItem from="1638197401502" duration="458000" />
+      <workItem from="1638793081771" duration="1684000" />
+      <workItem from="1638969726985" duration="494000" />
+      <workItem from="1640090892247" duration="936000" />
+      <workItem from="1640091851235" duration="595000" />
+      <workItem from="1642425943289" duration="938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1638192291878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1638192291878" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640090995668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1640090995668" />
+    <state x="509" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638193772924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1638193772924" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1638192396069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1638192396069" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1642605090356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642605090356" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1642426888805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1642426888805" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1642426888805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1642426888805" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1642426888805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1642426888805" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1642426888805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1642426888805" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1640091011138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640091011138" />
+    <state x="565" y="193" key="chooseDestDirectoryDialog" timestamp="1638192521878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="193" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1638192521878" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1638793133540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638793133540" />
+    <state x="178" y="29" key="new project wizard" timestamp="1638797709844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1638797709844" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1638194302367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1638194302367" />
+  </component>
+</project>
